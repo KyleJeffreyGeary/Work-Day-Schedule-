@@ -25,5 +25,9 @@ THEN the saved events persist
 ```
 
 ## Screenshot
+![WorkDayScheduler screenshot](https://user-images.githubusercontent.com/98886625/161871441-9460eb56-21cc-43d1-ba6a-18c5e38126bd.png)
 
 ```
+## Deployed Pages
+Published page: https://kylejeffreygeary.github.io/Work-Day-Schedule-/
+Git Hub repo: https://github.com/KyleJeffreyGeary/Work-Day-Schedule-
